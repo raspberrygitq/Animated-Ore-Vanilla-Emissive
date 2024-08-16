@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_ore",
+  "textures": {
+      "base": "minecraft:block/deepslate_gold_ore3",
+      "glow": "minecraft:block/deepslate_gold_ore3_e"
+  }
+}

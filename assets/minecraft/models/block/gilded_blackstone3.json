@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_ore",
+  "textures": {
+      "base": "minecraft:block/gilded_blackstone3",
+      "glow": "minecraft:block/gilded_blackstone3_e"
+  }
+}

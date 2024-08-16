@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_ore",
+  "textures": {
+      "base": "minecraft:block/copper_ore2",
+      "glow": "minecraft:block/copper_ore2_e"
+  }
+}

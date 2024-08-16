@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_ore",
+  "textures": {
+      "base": "minecraft:block/iron_ore",
+      "glow": "minecraft:block/iron_ore_e"
+  }
+}

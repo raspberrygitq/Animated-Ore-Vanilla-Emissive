@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_ore",
+  "textures": {
+      "base": "minecraft:block/lapis_ore1",
+      "glow":"minecraft:block/lapis_ore1_e"
+  }
+}
