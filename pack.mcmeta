@@ -1,10 +1,6 @@
 {
    "pack": {
-      "pack_format": 36,
+      "pack_format": 37,
       "description": "Animated Ore - Vanilla Emissive resources.",
-      "supported_formats": {
-         "min_inclusive": 36,
-         "max_inclusive": 37
-      }
    }
 }
