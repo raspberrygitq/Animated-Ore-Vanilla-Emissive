@@ -1,6 +1,7 @@
 {
    "pack": {
-      "pack_format": 42,
+      "__comment": "Soon there will be support until the release of 1.21.4, if nothing changes in the game code",
+      "pack_format": 43,
       "description": "Animated Ore (Vanilla Emissive) resources."
    }
 }
