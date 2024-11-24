@@ -7,12 +7,11 @@ This resource pack is a fork of the original Animated Ore, but has been complete
 ### Compatibility
 <hr>
 <details>
-<summary>Supported mods✅</summary>
+<summary>Supported ✅</summary>
 
 * Minecraft Vanilla - ✅
 * OptiFine - ❌
-* Sodium - ✅ (Continuity is not required.)
-* Embeddium - ❌
+* Sodium - ❌
 </details>
 <hr>
 
